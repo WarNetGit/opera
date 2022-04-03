@@ -9,5 +9,4 @@ class OperaApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
